@@ -172,7 +172,7 @@ p{
 }
 
 .blurred{
-    filter: grayscale(100%) blur(5px);
+    filter: grayscale(100%) blur(12px);
 }
 
 /********** RWD **********/
